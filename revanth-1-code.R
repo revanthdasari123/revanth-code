@@ -9,7 +9,7 @@ if (!requireNamespace("readr", quietly = TRUE)) install.packages("readr")
 if (!requireNamespace("ggplot2", quietly = TRUE)) install.packages("ggplot2")
 if (!requireNamespace("dplyr", quietly = TRUE)) install.packages("dplyr")
 
-# Install missing packages
+
 install.packages("corrplot")     # For correlation plot
 install.packages("ggplot2")      # For data visualization
 
